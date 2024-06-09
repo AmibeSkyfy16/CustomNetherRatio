@@ -1,4 +1,4 @@
-[<img style="vertical-align:middle" width="800" src="./docs/short_readme.svg">]()
+Allow you to configure a custom "travel scale factor" / "nether ratio" for the the_nether minecraft vanilla dimension
 
 ___
 

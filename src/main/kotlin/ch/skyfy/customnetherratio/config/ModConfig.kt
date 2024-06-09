@@ -20,5 +20,5 @@ data class ModConfig(
 }
 
 class DefaultModConfig : Defaultable<ModConfig> {
-    override fun getDefault() = ModConfig(128.0)
+    override fun getDefault() = ModConfig(16.0)
 }
